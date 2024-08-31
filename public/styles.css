@@ -80,7 +80,7 @@ header::before {
 footer {
   position: relative;
   width: 100%;
-  background: #3586ff;
+  background: #95C8D8;
   min-height: 100px;
   padding: 20px 50px;
   display: flex;
@@ -110,9 +110,9 @@ footer .wave {
   top: -50px; 
   left: 0;
   width: 100%;
-  height: 50px; 
-  background: url(https://i.ibb.co/rZt4Nhg/wave.png);
-  background-size: 1000px 50px; 
+  height: 100px; 
+  background: url('images/wave.png');
+  background-size: 1000px 90px; 
 }
 
 footer .wave#wave1 {
